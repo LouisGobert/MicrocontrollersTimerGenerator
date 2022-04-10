@@ -1,1 +1,1 @@
-# NopTimerGenerator
+# Microcontrollers Timer Generator
